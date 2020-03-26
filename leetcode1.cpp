@@ -29,9 +29,19 @@ int main () {
 	//cin.tie(0);
 	
 	Solution s;
-	int x,y;
-	while (cin >> x>> y) {
-		cout << s.twoSum(x,y)<< endl;
+	string input_list;
+	vector<int> nums, ans;
+	int item, target;
+	
+	while (getline(cin,input_list)) {
+		cin >> target;
+		istringstream T(input_list);
+		while (T >> item) nums.push_back(item);
+		ans = s.twoSum(nums,target);
+		while (!ans.empty()){
+			cout << ans.back() << " ";
+			ans.pop_back();
+		}
 	}
 	
 	return 0;

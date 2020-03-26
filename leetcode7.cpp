@@ -8,7 +8,6 @@ class Solution {
 public:
     int reverse(int x) {
         int rev = 0;
-		cout << x<< endl;
         while (x != 0) {
             int pop = x % 10;
             x /= 10;
@@ -21,19 +20,13 @@ public:
 };
 
 int main () {
-	ios::sync_with_stdio(false);
-	cin.tie(0);
+	//ios::sync_with_stdio(false);
+	//cin.tie(0);
 	
 	Solution s;
-	int x,y;
-	for (int i=INT_MAX;;i--){
-		if (s.reverse(i)>0){
-			y=i;
-			break;
-		}
-	}
-	cout << y << endl;
-	cout << s.reverse(y)<<endl;
+	int x;
+	while (cin >> x)
+		cout << s.reverse(x)<<endl;
 	
 	return 0;
 }
