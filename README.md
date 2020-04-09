@@ -11,6 +11,8 @@
 - [1365. How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/)
 - [1394. Find Lucky Integer in an Array](https://leetcode.com/problems/find-lucky-integer-in-an-array/)
 
+- [38. Count and Say](https://leetcode.com/problems/count-and-say/)
+
 ---
 ## Medium
 - [1395. Count Number of Teams](https://leetcode.com/problems/count-number-of-teams/)
