@@ -13,6 +13,15 @@
 
 - [38. Count and Say](https://leetcode.com/problems/count-and-say/)
 
+- [1408. String Matching in an Array](https://leetcode.com/problems/string-matching-in-an-array/)
+
 ---
 ## Medium
 - [1395. Count Number of Teams](https://leetcode.com/problems/count-number-of-teams/)
+
+- [1409. Queries on a Permutation With Key](https://leetcode.com/problems/queries-on-a-permutation-with-key/)
+- [1410. HTML Entity Parser](https://leetcode.com/problems/html-entity-parser/)
+
+---
+## Hard
+- [1411. Number of Ways to Paint N × 3 Grid](https://leetcode.com/problems/number-of-ways-to-paint-n-3-grid/)

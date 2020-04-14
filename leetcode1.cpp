@@ -34,14 +34,16 @@ int main () {
 	int item, target;
 	
 	while (getline(cin,input_list)) {
-		cin >> target;
 		istringstream T(input_list);
 		while (T >> item) nums.push_back(item);
+		target = nums.back();
+		nums.pop_back();
 		ans = s.twoSum(nums,target);
 		while (!ans.empty()){
 			cout << ans.back() << " ";
 			ans.pop_back();
 		}
+		nums.clear();
 	}
 	
 	return 0;
