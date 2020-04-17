@@ -1,8 +1,9 @@
 # Leetcode
 
 - [link](https://leetcode.com/)
+- 22/1412
 
-## EASY:
+## EASY: (13)
 - [1. Two Sum](https://leetcode.com/problems/two-sum/)
     - [Sol](leetcode1.cpp)
 - [7. Reverse Integer](https://leetcode.com/problems/reverse-integer/)
@@ -11,6 +12,8 @@
     - [Sol](leetcode9.cpp)
 - [13. Roman to Integer](https://leetcode.com/problems/roman-to-integer/)
     - [Sol](leetcode13.cpp)
+- [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)
+    - [Sol](leetcode14.cpp)
 - [38. Count and Say](https://leetcode.com/problems/count-and-say/)
     - [Sol](leetcode38.cpp)
 - [1108. Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/)
@@ -21,12 +24,22 @@
     - [Sol](leetcode1365.cpp)
 - [1394. Find Lucky Integer in an Array](https://leetcode.com/problems/find-lucky-integer-in-an-array/)
     - [Sol](leetcode1394.cpp)
+- [1399. Count Largest Group](https://leetcode.com/problems/count-largest-group/)
+    - [Sol](leetcode1399.cpp)
 - [1403. Minimum Subsequence in Non-Increasing Order](https://leetcode.com/problems/minimum-subsequence-in-non-increasing-order/)
     - [Sol](leetcode1403.cpp)
 - [1408. String Matching in an Array](https://leetcode.com/problems/string-matching-in-an-array/)
     - [Sol](leetcode1408.cpp)
 
-## Medium
+## Medium (7)
+- [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)
+    - [Sol](leetcode2.cpp)
+- [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
+    - [Sol](leetcode3.cpp)
+- [8. String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)
+    - [Sol](leetcode8.cpp)
+- [377. Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/)
+    - [Sol](leetcode377.cpp)
 - [1395. Count Number of Teams](https://leetcode.com/problems/count-number-of-teams/)
     - [Sol](leetcode1395.cpp)
 - [1409. Queries on a Permutation With Key](https://leetcode.com/problems/queries-on-a-permutation-with-key/)
@@ -34,6 +47,8 @@
 - [1410. HTML Entity Parser](https://leetcode.com/problems/html-entity-parser/)
     - [Sol](leetcode1410.cpp)
 
-## Hard
+## Hard (2)
+- [4. Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)
+    - [Sol](leetcode4.cpp)
 - [1411. Number of Ways to Paint N × 3 Grid](https://leetcode.com/problems/number-of-ways-to-paint-n-3-grid/)
     - [Sol](leetcode1411.cpp)
