@@ -16,6 +16,8 @@
     - [Sol](leetcode14.cpp)
 - [38. Count and Say](https://leetcode.com/problems/count-and-say/)
     - [Sol](leetcode38.cpp)
+- [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
+    - [Sol](leetcode70.cpp)
 - [1108. Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/)
     - [Sol](leetcode1108.cpp)
 - [1342. Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/)
