@@ -1,5 +1,6 @@
 # AtCoder
-    [Link](https://atcoder.jp/)
+
+- [Link](https://atcoder.jp/)
 
 ## AtCoder Beginner Contest 162
 - [A - Lucky 7](https://atcoder.jp/contests/abc162/tasks/abc162_a)

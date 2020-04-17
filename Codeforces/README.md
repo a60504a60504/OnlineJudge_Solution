@@ -1,10 +1,11 @@
 # Codeforces
-    [link](https://codeforces.com/)
+
+- [link](https://codeforces.com/)
 
 ## Educational Codeforces Round 85 (Rated for Div. 2)
-- [A. Level Statistics] (https://codeforces.com/contest/1334/problem/A)
+- [A. Level Statistics](https://codeforces.com/contest/1334/problem/A)
     - [Sol](Educational_Codeforces_Round_85_Div_2/A_Level_Statistics.cpp)
-- [B. Middle Class] (https://codeforces.com/contest/1334/problem/B)
+- [B. Middle Class](https://codeforces.com/contest/1334/problem/B)
     - [Sol](Educational_Codeforces_Round_85_Div_2/B_Middle_Class.cpp)
 
 ## Codeforces Round #635 (Div. 2)

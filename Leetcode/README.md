@@ -1,5 +1,6 @@
 # Leetcode
-    [link](https://leetcode.com/)
+
+- [link](https://leetcode.com/)
 
 ## EASY:
 - [1. Two Sum](https://leetcode.com/problems/two-sum/)
