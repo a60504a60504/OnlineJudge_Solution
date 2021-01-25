@@ -4,12 +4,7 @@ using namespace std;
 
 vector<int> func(int a[], int b[], int N) {
 	vector<int> ans;
-	int max=0;
-	for (int c=1;c<=N;c++) {
-		for (int i=1;i<=c;i++) {
-			for (int j=1;j<=i;j++) {
-				
-	}
+	
 	return ans;
 }
 
